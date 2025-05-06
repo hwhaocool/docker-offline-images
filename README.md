@@ -55,3 +55,14 @@ docker pull nginx
 2. 非会员下载不限速（排除百度云盘、夸克云盘）
 
 目前选择的是 `123云盘`
+
+## 网盘链接(具体列表可进入仓库子文件夹查看)
+| 目录 | 说明 |网盘链接|
+| --- | --- | --- |
+| all | all |https://www.123865.com/s/ueQ8jv-uiyPh|
+| 0_official | `docker.io`官方镜像 |https://www.123865.com/s/ueQ8jv-KiyPh|
+| 0_other_registry | 其它镜像仓库 ||
+| A | `docker.io`上`repository`以a开头的镜像 ||
+| B | `docker.io`上`repository`以b开头的镜像 ||
+| ... | 规则同上 ||
+
